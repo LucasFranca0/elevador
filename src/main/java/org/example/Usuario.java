@@ -1,8 +1,6 @@
 package org.example;
 
-import org.example.elevador.Elevador;
-
-public class Main {
+public class Usuario {
     public static void main(String[] args) {
         Elevador.entrar();
         System.out.println("\n");
